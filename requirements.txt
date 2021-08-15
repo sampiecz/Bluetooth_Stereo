@@ -1,0 +1,4 @@
+django
+djangorestframework
+django-webpack-loader==0.7.0
+
